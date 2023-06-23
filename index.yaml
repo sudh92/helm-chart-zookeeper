@@ -3,7 +3,7 @@ entries:
   zookeeper:
   - apiVersion: v1
     appVersion: 3.5.5
-    created: "2023-06-23T15:20:54.7955151+05:30"
+    created: "2023-06-23T15:28:29.7536393+05:30"
     description: Centralized service for maintaining configuration information, naming,
       providing distributed synchronization, and providing group services.
     digest: 5113ee083dd3aae1fb75a1de1551bda8fb0634a01577ed7347fd4edc8b306a0a
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://sudh92.github.io/helm-chart-zookeeper/zookeeper-2.1.3.tgz
     version: 2.1.3
-generated: "2023-06-23T15:20:54.7923315+05:30"
+generated: "2023-06-23T15:28:29.7315083+05:30"
